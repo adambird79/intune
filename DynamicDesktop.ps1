@@ -1,5 +1,5 @@
-﻿$BackgroundImageURL = 'https://yourstorageaccount.blob.core.windows.net/wallpaper/background.jpg'
-$LockscreenImageURL = 'https://yourstorageaccount.blob.core.windows.net/wallpaper/lockscreen.jpg'
+﻿$BackgroundImageURL = 'https://github.com/adambird79/intune/blob/main/drops-6392473_1920.jpg'
+$LockscreenImageURL = 'https://github.com/adambird79/intune/blob/main/drops-6392473_1920.jpg'
 $ImageDestinationFolder = "C:\temp\images\temp"
 $Backgroundimage = "$ImageDestinationFolder\background.jpg"
 $LockScreenImage = "$ImageDestinationFolder\Lockscreen.jpg"
