@@ -1,0 +1,329 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.launcher",
+    "managedProperty": [
+        {
+            "key": "management_mode_key",
+            "valueString": "Default"
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url",
+            "valueString": "Default"
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.GridSize",
+            "valueString": "Default"
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.Applications",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.netsweeper.clientfilter"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.walmin.android.greenscreen"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.adobe.reader"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.photoroom.app"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.cardinalblue.piccollage.google"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.picsart.studio"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "seesaw.shadowpuppet.co.classroom"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "net.llamadigital.smithillswoodlandtrust"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.teachyourmonstertoread.rff"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.ttrockstars.app"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.earth"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.mathscircle.nb"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.google.android.apps.photos"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.phe.c4lfoodsmart"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 0
+                        },
+                        {
+                            "key": "package",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "Content.UserChangeAllowed",
+                            "valueBool": true
+                        },
+                        {
+                            "key": "content",
+                            "valueBundleArray": [
+                                {
+                                    "managedProperty": [
+                                        {
+                                            "key": "type",
+                                            "valueString": "application"
+                                        },
+                                        {
+                                            "key": "package",
+                                            "valueString": ""
+                                        },
+                                        {
+                                            "key": "class",
+                                            "valueString": ""
+                                        },
+                                        {
+                                            "key": "label",
+                                            "valueString": ""
+                                        },
+                                        {
+                                            "key": "link",
+                                            "valueString": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Folder.Style",
+            "valueBundle": {
+                "managedProperty": [
+                    {
+                        "key": "folderShape",
+                        "valueString": ""
+                    },
+                    {
+                        "key": "openFullScreen",
+                        "valueBool": true
+                    },
+                    {
+                        "key": "folderScroll",
+                        "valueString": "vertical"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.WebLinks",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "label",
+                            "valueString": ""
+                        },
+                        {
+                            "key": "link",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode",
+            "valueString": "Hidden"
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement",
+            "valueString": "Hidden"
+        }
+    ]
+}
