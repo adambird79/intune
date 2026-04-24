@@ -4,7 +4,7 @@ Download the Adobe Customisation tool from: [Acrobat Customization Wizard](https
 
 Once installed, under "Personalization Options" tick the "Suppress display of End Licence Agreement (EULA)"
 
-![adobe1](/media/adobe_custom1.png)
+<img src="/media/adobe_custom1.png">
 
 Under "Installation Options" select "Make Reader the default PDF Viewer"
 
