@@ -1,0 +1,9 @@
+<gupdate xmlns="
+http://www.google.com/update2/response"
+protocol="2.0">
+<app appid="kdbgbpcphmnekmkhbcfmbdahceffhddn">
+<updatecheck codebase="
+https://upgradecf.netsweeper.com/clientfilter/netsweeper/webext/chrome/nsfilter-12.30.54-netsweeper.crx"
+version="12.30.54"/>
+</app>
+</gupdate>
