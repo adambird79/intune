@@ -5,7 +5,7 @@
 Name:
 
 Description: \
-Publisher:
+Publisher:  
 App Version:
 Informaton URL:
 Privacy URL:
