@@ -15,11 +15,6 @@ App Version:
 ``` text
 147.0.7727.117
 ```
-Informaton URL:  
-Privacy URL:  
-Developer: N/A  
-Owner: N/A  
-Notes: N/A  
 
 ## Program
 Installer Type: Command Line  
@@ -28,13 +23,13 @@ Install Command:
 msiexec /i "googlechromestandaloneenterprise64.msi" /qn 
 ```
 Unistaller Type: Command Line  
+Uninstall Command:
 ``` text
 msiexec /x "{E731CB19-B18D-3337-AD54-F64A8F557D7F}" /qn
 ```
-Uninstall Command:
 Installation time Required (mins): 60  
 Allow available Uninstall: No  
-Install Behavious:
+Install Behaviour:
 Device Restart Behavious:  
 
 ## Detection Rules
