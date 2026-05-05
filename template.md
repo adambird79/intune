@@ -22,3 +22,6 @@ Allow available Uninstall: No
 Install Behavious:
 Device Restart Behavious:  
 
+## Detection Rules
+
+##
