@@ -30,3 +30,10 @@ File or Folder:
 VMware Tools
 ```
 ![vmtools2](./media/vmtools2.jpg)
+
+## Notes
+
+To install only on VMWware Virtual Machines, you can create a group with dynamic device membership with the rules syntax as:
+``` text
+(device.deviceManufacturer -eq "VMware, Inc.")
+``` 
