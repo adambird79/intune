@@ -4,7 +4,7 @@
 
 Name:
 
-Description:
+Description: \
 Publisher:
 App Version:
 Informaton URL:
