@@ -1,3 +1,4 @@
 Links to MD files
 
-[VMWare Tools](./adobe.md)
+[Adobe Reader](/adobe.md)
+[VMWare Tools](./vmtools.md)
