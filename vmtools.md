@@ -2,9 +2,10 @@
 
 ![vmtools1](./media/vmtools1.jpg)
 
-## Install
-
+Install Command
+``` cmd
 setup.exe /S /v"/qn"
+```
 
 ## Uninstall
 
