@@ -1,7 +1,5 @@
 # VM Tools
 
-![vmtools1](./media/vmtools1.jpg)
-
 Install Command
 ``` cmd
 setup.exe /S /v"/qn"
@@ -16,7 +14,18 @@ Device Restart select:
 
 **Force Manatory reboot**
 
+![vmtools1](./media/vmtools1.jpg)
+
 ## Detection
 
-Path: %ProgramFiles%\VMWare\
-File or Folder: VMware Tools
+Path: 
+
+``` cmd
+%ProgramFiles%\VMWare\
+```
+
+File or Folder: 
+
+``` text
+VMware Tools
+```
