@@ -29,3 +29,4 @@ File or Folder:
 ``` text
 VMware Tools
 ```
+![vmtools2](./media/vmtools2.jpg)
