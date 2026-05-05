@@ -2,9 +2,15 @@
 
 ## App Information
 
-Name: **Google Chrome**  
+Name:  
+```text
+Google Chrome
+```
 Description:  
-Publisher: Google  
+Publisher:  
+``` text
+Google
+```mr
 App Version:  
 Informaton URL:  
 Privacy URL:  
