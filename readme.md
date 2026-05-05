@@ -5,4 +5,5 @@ Links to MD files
 * [Google Chrome](/google-chrome.md)
 * [Netsweeper Client Filter](/netsweeper-client%20filter.md) **todo**
 * [Netsweeper Wagent](/netsweeper-wagent.md) **todo**
+* [Mozilla Firefox](/)
 * [VMWare Tools](./vmtools.md)
