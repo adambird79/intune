@@ -2,9 +2,9 @@
 
 ## App Information
 
-Name:  
+Name: **Google Chrome**  
 Description:  
-Publisher:  
+Publisher: Google  
 App Version:  
 Informaton URL:  
 Privacy URL:  
@@ -14,7 +14,7 @@ Notes: N/A
 
 ## Program
 Installer Type: Command Line  
-Install Command:  
+Install Command:  ```text test ```
 Unistaller Type: Command Line  
 Uninstall Command:
 Installation time Required (mins): 60  
