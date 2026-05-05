@@ -5,13 +5,9 @@
 Name:
 
 Description:
-
 Publisher:
-
 App Version:
-
 Informaton URL:
-
 Privacy URL:
 
 Developer: N/A
