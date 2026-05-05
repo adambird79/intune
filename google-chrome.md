@@ -1,4 +1,4 @@
-# App Name
+# Google Chrome
 
 ## App Information
 
