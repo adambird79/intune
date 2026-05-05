@@ -12,7 +12,7 @@ setup.exe /S /v "/qn msi_args REBOOT=R REMOVE=ALL"
 
 Device Restart select:
 
-**Force Manatory reboot**
+**Intune will force a manatory restart**
 
 ![vmtools1](./media/vmtools1.jpg)
 
