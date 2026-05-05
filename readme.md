@@ -8,3 +8,22 @@ Links to MD files
 * [Netsweeper Client Filter](/netsweeper-client%20filter.md) **todo**
 * [Netsweeper Wagent](/netsweeper-wagent.md) **todo**
 * [VMWare Tools](./vmtools.md)
+
+
+All intunewin files are stored in OneDrive, folder structure is as below:
+
+* Publisher  
+  *  Software
+     * version
+
+e.g.
+
+* Google  
+  * Chrome  
+     * 147
+     * 148
+     * 149
+* Mozilla  
+  * Firefox  
+     * 149
+     * 150  
