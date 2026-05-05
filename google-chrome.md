@@ -8,8 +8,7 @@ Name:
 ```text
 Google Chrome
 ```
-Description:  
-Publisher:  
+ Publisher:  
 ``` text
 Google
 ```
@@ -19,12 +18,12 @@ App Version:
 ```
 
 ## Program
-Installer Type: Command Line  
+Installer Type: **Command Line**  
 Install Command:  
 ``` text
 msiexec /i "googlechromestandaloneenterprise64.msi" /qn 
 ```
-Unistaller Type: Command Line  
+Unistaller Type: **Command Line**  
 Uninstall Command:
 ``` text
 msiexec /x "{E731CB19-B18D-3337-AD54-F64A8F557D7F}" /qn
