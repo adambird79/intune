@@ -7,13 +7,14 @@ Install Command
 setup.exe /S /v"/qn"
 ```
 
-## Uninstall
-
+Uninstall Command
+``` cmd
 setup.exe /S /v "/qn msi_args REBOOT=R REMOVE=ALL"
+```
 
-## Device Restart
+Device Restart select:
 
-Force Manatory reboot
+**Force Manatory reboot**
 
 ## Detection
 
