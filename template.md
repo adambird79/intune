@@ -2,8 +2,7 @@
 
 ## App Information
 
-Name:
-
+Name:  
 Description:  
 Publisher:  
 App Version:  
