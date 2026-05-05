@@ -13,6 +13,9 @@ Publisher:
 Mozilla
 ```
 App Version:  
+``` text
+150.0
+```
 Informaton URL:  
 Privacy URL:  
 Developer: N/A  
