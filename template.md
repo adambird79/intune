@@ -1,5 +1,7 @@
 # App Name
 
+If an option isn't set in here it is either not needed or the default set by Intune.
+
 ## App Information
 
 Name:  
