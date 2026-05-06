@@ -1,4 +1,10 @@
 Links to MD files
+``` powershell
+Get-WmiObject -Class Win32_Product | Select Name, IdentifyingNumber
+```
+``` powershell
+Get-WmiObject -Class Win32_Product | Where-Object {$_.Name -like "*NAME*"} | Select Name, IdentifyingNumber
+```
 
 * [Adobe Reader](/adobe-reader.md)
 * [Fortinet FortiClient VPN](/fortinet-forticlient%20vpn.md)  **todo**
