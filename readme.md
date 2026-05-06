@@ -1,10 +1,19 @@
-Links to MD files
+# Show App Identyfing Number
 ``` powershell
 Get-WmiObject -Class Win32_Product | Select Name, IdentifyingNumber
 ```
 ``` powershell
 Get-WmiObject -Class Win32_Product | Where-Object {$_.Name -like "*NAME*"} | Select Name, IdentifyingNumber
 ```
+# Force checkin for Apps
+``` powershell
+Restart-Service IntuneManagementExtension -Force
+```
+``` powershell
+Get-Content "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntuneManagementExtension.log" -Wait
+```
+
+# Links to MD files
 
 * [Adobe Reader](/adobe-reader.md)
 * [Fortinet FortiClient VPN](/fortinet-forticlient%20vpn.md)  **todo**
