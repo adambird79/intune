@@ -12,7 +12,7 @@ Also create a powershell script to disable the feature
 ``` powershell disable_NetFx3.ps1
 Disable-WindowsOptionalFeature -Online -FeatureName NetFx3
 ```
-Now package these scripts up as an IntuneWinApp, download the tool from (micrososft-win32-content-prep-tool)[https://github.com/microsoft/microsoft-win32-content-prep-tool]
+Now package these scripts up as an IntuneWinApp, download the tool from [micrososft-win32-content-prep-tool](https://github.com/microsoft/microsoft-win32-content-prep-tool)
 
 ``` cmd
 IntuneWinAppUtil.exe -c c:\input -s enable_NetFx3.ps1 -o c:\output
